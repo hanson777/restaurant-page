@@ -1,3 +1,4 @@
 import "./styles.css";
+import loadPage from "./homepage.js";
 
-console.log("Hello World");
+loadPage();
